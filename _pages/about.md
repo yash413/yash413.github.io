@@ -15,26 +15,26 @@ redirect_from:
 
 ## Experience
 
-### Enstructure: Data Scientist - Full Stack (Nov’23-*)
-- Engineered an end-to-end data pipeline for a Real Estate client leveraging AWS Glue, incorporating custom Lambda triggers.
-- Elevated decision-making with automated dashboards on AWS Quicksight, providing dynamic insights into critical metrics.
+### Thrive Software Solutions: Data Scientist (Aug’23-*)
+- Developed and deployed predictive models using Python, R, and TensorFlow to forecast sales and optimize supply chain operations, resulting in a 15% reduction in inventory costs.
+- Implemented machine learning algorithms such as Random Forests, SVM, and CNN to analyze customer data, improving the accuracy of customer segmentation by 20%.
+- Led the development of an end-to-end machine learning pipeline in an Agile environment, utilizing AWS services (S3, Lambda, EMR) and Databricks for large-scale data processing and model training.
+- Conducted exploratory data analysis (EDA) and A/B testing to validate model performance and derive actionable insights, enhancing marketing campaign effectiveness by 25%.
 
-### Trinet: Product Data Scientist (Jun’23-Oct’23)
-- Led cross-functional collaboration to optimize RISK-NAICS code assignment, integrate classification models, reduce manual processing time by 25%, and achieve a 30% increase in client acquisition through refined risk evaluation accuracy for dynamic pricing of healthcare insurance.
-- Leveraged BERT-based NLP embeddings and topic modeling to analyze and classify customer support tickets, identifying critical factors driving customer attrition.
-- Integrated Salesforce with external systems using web services and APIs, improving data accuracy by 40% and reducing data entry errors by 50%.
 
-### Tradeblock: Graduate Capstone Project - Data Science (Jan’23-May’23)
-- Achieved a notable 15% increase in footwear trades and 20% higher user engagement through Python-based A/B testing and custom recommendation systems, all while maintaining 98% of the original variance with PCA.
-- Managed Docker deployment, integrated AWS services with on-premise resources for an 8% cost reduction, optimized ETL processes, and skillfully utilized Kubernetes for container orchestration.
+### Accenture: Data Scientist (Jun’21-Dec’21)
+- Developed classification and regression models using Python, R, and SAS to predict customer churn and improve retention strategies, reducing churn rates by 15%.
+- Implemented deep neural networks and decision trees for predictive analytics, optimizing marketing campaigns and increasing conversion rates by 18%.
+- Utilized AWS Glue and Kinesis for real-time data processing and ETL, enabling faster and more accurate data analysis reporting.
+- Performed sentiment analysis on customer feedback using Spacy and TensorFlow, providing actionable insights that enhanced product development and customer satisfaction.
 
-### EXL Service: Data Scientist (Aug’19-Apr’22)
-- Led a 6-member model development team to predict Gross Credit Loss for a fortune-100 US bank with 98% accuracy.
-- Deployed credit card cross-selling model using K-Means customer segmentation, enabling the client to run targeted promotions.
-- Created a credit card fraud detection model, using Logistic Regression, for a leading US banking client, helped in reducing fraud losses by 3 million USD during the first year of its deployment.
-- Implemented a Decision Tree algorithm with hyperparameter tuning, helped to reduce customer churn rate by over 40%.
-- Performed regression on the customer data to evaluate credit refinement, leading to a decrease in Net Credit Loss by over 6%.
-- Designed and optimized Data Warehousing Architecture for a US-based bank which led to a reduction in query time by 15%.
+
+### Enique Solutions: Data Scienctist (Jan’20-Jun’21)
+- Developed classification and regression models using Python, R, and SAS to predict customer churn and improve retention strategies, reducing churn rates by 15%.
+- Implemented deep neural networks and decision trees for predictive analytics, optimizing marketing campaigns and increasing conversion rates by 18%.
+- Utilized AWS Glue and Kinesis for real-time data processing and ETL, enabling faster and more accurate data analysis reporting.
+- Performed sentiment analysis on customer feedback using Spacy and TensorFlow, providing actionable insights that enhanced product development and customer satisfaction.
+
 
 ## Projects
 
