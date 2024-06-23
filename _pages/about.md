@@ -36,6 +36,6 @@ redirect_from:
 - Performed sentiment analysis on customer feedback using Spacy and TensorFlow, providing actionable insights that enhanced product development and customer satisfaction.
 
 
-## Projects
+## [Projects](https://www.example.com)
 
-[Please click on the Headline to be redirected to my Portfolio Page](https://www.example.com). You can also click [here](https://www.example.com).
+Please click on the Headline to be redirected to my Portfolio Page. You can also click [here](https://www.example.com).
