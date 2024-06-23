@@ -13,6 +13,7 @@ redirect_from:
 
 - Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Modelling, Data Wrangling, Statistical Modeling, Data Mining, Natural Language Processing, Machine Learning, and Data Visualization. • Track record of driving business growth through data-driven strategies. • Expertise in A/B testing, recommendation systems, and user engagement, resulting in a 15% increase in footwear trades and 20% higher user engagement. • Proficient in Python, AWS, SQL, and Docker, with a background in data analysis, statistical modeling, and manipulation using R. • Reduced operational costs by 30% and improved system reliability by 40% through AWS infrastructure design and deployment. • Experienced in ETL processes, Kubernetes, CI/CD pipelines, and container orchestration for efficient data management and deployment.
 
+
 ## Experience
 
 ### Thrive Software Solutions: Data Scientist (Aug’23-*)
@@ -36,6 +37,6 @@ redirect_from:
 - Performed sentiment analysis on customer feedback using Spacy and TensorFlow, providing actionable insights that enhanced product development and customer satisfaction.
 
 
-## [Projects](https://www.example.com)
+## [Projects](https://yash413.github.io/portfolio/)
 
-Please click on the Headline to be redirected to my Portfolio Page. You can also click [here](https://www.example.com).
+Please click on the Headline to be redirected to my Portfolio Page. You can also click [here](https://yash413.github.io/portfolio/).
