@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Yashwanth"
+title: "👋 Hello there"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Data Scientist
+# I'm Yashwanth | Data Scientist
 
 ## About Me
 
-- Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Modelling, Data Wrangling, Statistical Modeling, Data Mining, Natural Language Processing, Machine Learning, and Data Visualization. - Track record of driving business growth through data-driven strategies. - Expertise in A/B testing, recommendation systems, and user engagement, resulting in a 15% increase in footwear trades and 20% higher user engagement. - Proficient in Python, AWS, SQL, and Docker, with a background in data analysis, statistical modeling, and manipulation using R. - Reduced operational costs by 30% and improved system reliability by 40% through AWS infrastructure design and deployment. - Experienced in ETL processes, Kubernetes, CI/CD pipelines, and container orchestration for efficient data management and deployment. - Recognized for leading impactful credit card marketing campaigns, achieving a 16% increase in open rates, and contributing to a $3 million reduction in fraud losses in the first year for a prominent US banking client.
+- Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Modelling, Data Wrangling, Statistical Modeling, Data Mining, Natural Language Processing, Machine Learning, and Data Visualization. • Track record of driving business growth through data-driven strategies. • Expertise in A/B testing, recommendation systems, and user engagement, resulting in a 15% increase in footwear trades and 20% higher user engagement. • Proficient in Python, AWS, SQL, and Docker, with a background in data analysis, statistical modeling, and manipulation using R. • Reduced operational costs by 30% and improved system reliability by 40% through AWS infrastructure design and deployment. • Experienced in ETL processes, Kubernetes, CI/CD pipelines, and container orchestration for efficient data management and deployment.
 
 ## Experience
 
