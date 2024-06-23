@@ -1,3 +1,13 @@
+---
+permalink: /markdown1/
+title: "Projects"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
+
+
 ## Projects
 
 ### Surveillance Alert System based on Image Captioning using Deep Learning Approaches
