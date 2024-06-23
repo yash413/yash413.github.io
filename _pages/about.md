@@ -1,49 +1,47 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋 Hello there, I'm Yashwanth"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+# Saurabh - Data Scientist
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## Profile Description
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- Skilled Data Scientist with 5+ years of experience in Data Extraction, Data Modelling, Data Wrangling, Statistical Modeling, Data Mining, Natural Language Processing, Machine Learning, and Data Visualization.
+- Track record of driving business growth through data-driven strategies.
+- Expertise in A/B testing, recommendation systems, and user engagement, resulting in a 15% increase in footwear trades and 20% higher user engagement.
+- Proficient in Python, AWS, SQL, and Docker, with a background in data analysis, statistical modeling, and manipulation using R.
+- Reduced operational costs by 30% and improved system reliability by 40% through AWS infrastructure design and deployment.
+- Experienced in ETL processes, Kubernetes, CI/CD pipelines, and container orchestration for efficient data management and deployment.
+- Recognized for leading impactful credit card marketing campaigns, achieving a 16% increase in open rates, and contributing to a $3 million reduction in fraud losses in the first year for a prominent US banking client.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Experience
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### Enstructure: Data Scientist - Full Stack (Nov’23-*)
+- Engineered an end-to-end data pipeline for a Real Estate client leveraging AWS Glue, incorporating custom Lambda triggers.
+- Elevated decision-making with automated dashboards on AWS Quicksight, providing dynamic insights into critical metrics.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### Trinet: Product Data Scientist (Jun’23-Oct’23)
+- Led cross-functional collaboration to optimize RISK-NAICS code assignment, integrate classification models, reduce manual processing time by 25%, and achieve a 30% increase in client acquisition through refined risk evaluation accuracy for dynamic pricing of healthcare insurance.
+- Leveraged BERT-based NLP embeddings and topic modeling to analyze and classify customer support tickets, identifying critical factors driving customer attrition.
+- Integrated Salesforce with external systems using web services and APIs, improving data accuracy by 40% and reducing data entry errors by 50%.
 
-**Markdown generator**
+### Tradeblock: Graduate Capstone Project - Data Science (Jan’23-May’23)
+- Achieved a notable 15% increase in footwear trades and 20% higher user engagement through Python-based A/B testing and custom recommendation systems, all while maintaining 98% of the original variance with PCA.
+- Managed Docker deployment, integrated AWS services with on-premise resources for an 8% cost reduction, optimized ETL processes, and skillfully utilized Kubernetes for container orchestration.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+### EXL Service: Data Scientist (Aug’19-Apr’22)
+- Led a 6-member model development team to predict Gross Credit Loss for a fortune-100 US bank with 98% accuracy.
+- Deployed credit card cross-selling model using K-Means customer segmentation, enabling the client to run targeted promotions.
+- Created a credit card fraud detection model, using Logistic Regression, for a leading US banking client, helped in reducing fraud losses by 3 million USD during the first year of its deployment.
+- Implemented a Decision Tree algorithm with hyperparameter tuning, helped to reduce customer churn rate by over 40%.
+- Performed regression on the customer data to evaluate credit refinement, leading to a decrease in Net Credit Loss by over 6%.
+- Designed and optimized Data Warehousing Architecture for a US-based bank which led to a reduction in query time by 15%.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Projects
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[Please click on the Headline to be redirected to my Portfolio Page](https://www.example.com). You can also click [here](https://www.example.com).
