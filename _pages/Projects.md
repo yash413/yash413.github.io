@@ -1,5 +1,5 @@
 ---
-permalink: /markdown1/
+permalink: /Projects/
 title: "Projects"
 author_profile: true
 redirect_from: 
@@ -7,8 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-
-## Projects
 
 ### Surveillance Alert System based on Image Captioning using Deep Learning Approaches
 In the field of image analytics, semantic segmentation can determine the objects in an image, but fails to explain the relationship between these objects. Automatic caption generation can help to identify these events and be used to alert users to take action. Our team tackled this challenge by implementing an Image Captioning system using CNN-LSTM architecture and compared results with GPT2-generated captions. The training dataset was from Kaggle and contained 8092 images from Flickr with 5 captions as the target label. To address the lack of surveillance-related images, we manually added 568 surveillance images and captions. The resulting Image Captioning model generated captions that were used to send alerts to stakeholders if the captions contained red-flag words.
