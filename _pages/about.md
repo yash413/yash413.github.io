@@ -37,6 +37,6 @@ redirect_from:
 - Performed sentiment analysis on customer feedback using Spacy and TensorFlow, providing actionable insights that enhanced product development and customer satisfaction.
 
 
-## [Projects](https://yash413.github.io/portfolio/)
+## [Projects](https://yash413.github.io/Projects/)
 
-Please click on the Headline to be redirected to my Portfolio Page. You can also click [here](https://yash413.github.io/portfolio/).
+Please click on the Headline to be redirected to my Portfolio Page. You can also click [here](https://yash413.github.io/Projects/).
