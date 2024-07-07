@@ -9,7 +9,12 @@ redirect_from:
 
 # I'm Yashwanth | Data Scientist
 
-- Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Modelling, Data Wrangling, Statistical Modeling, Data Mining, Natural Language Processing, Machine Learning, and Data Visualization. • Track record of driving business growth through data-driven strategies. • Expertise in A/B testing, recommendation systems, and user engagement, resulting in a 15% increase in footwear trades and 20% higher user engagement. • Proficient in Python, AWS, SQL, and Docker, with a background in data analysis, statistical modeling, and manipulation using R. • Reduced operational costs by 30% and improved system reliability by 40% through AWS infrastructure design and deployment. • Experienced in ETL processes, Kubernetes, CI/CD pipelines, and container orchestration for efficient data management and deployment.
+- Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Modelling, Data Wrangling, Statistical Modeling, Data Mining, Natural Language Processing, Machine Learning, and Data Visualization. 
+- Track record of driving business growth through data-driven strategies. 
+- Expertise in A/B testing, recommendation systems, and user engagement, resulting in a 15% increase in footwear trades and 20% higher user engagement. 
+- Proficient in Python, AWS, SQL, and Docker, with a background in data analysis, statistical modeling, and manipulation using R. 
+- Reduced operational costs by 30% and improved system reliability by 40% through AWS infrastructure design and deployment.
+- Experienced in ETL processes, Kubernetes, CI/CD pipelines, and container orchestration for efficient data management and deployment.
 
 
 ## Experience
@@ -38,6 +43,19 @@ redirect_from:
 - Optimized marketing spend through advanced SQL queries and Excel modeling, reallocating $500K to high-performing channels and improving ROI by 35%.
 - Designed and executed a customer segmentation analysis using K-means clustering, enabling personalized campaigns that boosted customer retention by 22%.
 - Implemented an automated data quality framework using Python, reducing manual data cleaning efforts by 80% and improving overall data integrity by 95%.
+
+
+## Education
+
+### MASTER OF SCIENCE, COMPUTER SCIENCE (Specialization: Data Science) (2022 - 2023)
+
+#### University of Texas at Dallas
+
+**Relevant Courses:** Database Design, Machine Learning, Artificial Intelligence, Statistical Methods for Data Science, Big Data Analytics and Management, Design and Analysis of Algorithms, Data Structures, Web Programming
+
+### BACHELOR OF TECHNOLOGY, ELECTRONICS AND COMMUNICATION ENGINEERING (2017 - 2021)
+
+#### Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India
 
 
 ## [Projects](https://yash413.github.io/Projects/)
