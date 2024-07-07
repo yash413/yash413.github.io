@@ -49,13 +49,13 @@ redirect_from:
 
 ### MASTER OF SCIENCE, COMPUTER SCIENCE (Specialization: Data Science) (2022 - 2023)
 
-#### University of Texas at Dallas
+<span style="color:red"> *University of Texas at Dallas*</span>
 
 **Relevant Courses:** Database Design, Machine Learning, Artificial Intelligence, Statistical Methods for Data Science, Big Data Analytics and Management, Design and Analysis of Algorithms, Data Structures, Web Programming
 
 ### BACHELOR OF TECHNOLOGY, ELECTRONICS AND COMMUNICATION ENGINEERING (2017 - 2021)
 
-#### Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India
+<span style="color:red"> *Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India*</span>
 
 
 ## [Projects](https://yash413.github.io/Projects/)
