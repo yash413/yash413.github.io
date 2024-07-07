@@ -9,7 +9,11 @@ redirect_from:
 
 # I'm Yashwanth | Data Scientist
 
-Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Modelling, Data Wrangling, Statistical Modeling, Data Mining, Natural Language Processing, Machine Learning, and Data Visualization. Proven track record of driving business growth through data-driven strategies and expertise in A/B testing, recommendation systems, and user engagement. Proficient in Python, AWS, SQL, and Docker, with a strong background in data analysis, statistical modeling, and manipulation using R. Reduced operational costs and improved system reliability through AWS infrastructure design and deployment. Experienced in ETL processes, Kubernetes, CI/CD pipelines, and container orchestration for efficient data management and deployment.
+Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Modelling, Data Wrangling, Statistical Modeling, Data Mining, Natural Language Processing, Machine Learning, and Data Visualization. 
+Proven track record of driving business growth through data-driven strategies and expertise in A/B testing, recommendation systems, and user engagement. 
+Proficient in Python, AWS, SQL, and Docker, with a strong background in data analysis, statistical modeling, and manipulation using R. 
+Reduced operational costs and improved system reliability through AWS infrastructure design and deployment. 
+Experienced in ETL processes, Kubernetes, CI/CD pipelines, and container orchestration for efficient data management and deployment.
 
 ---
 
@@ -51,7 +55,7 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
   </div>
 </div>
 
-### Software Engineer (Data)
+### Software Engineer, Data
 <div class="experience-section">
   <div class="company-role">
     <em>Accenture</em> <em>(Jun 2021 - Dec 2021)</em>
@@ -98,7 +102,7 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
 ### Bachelor of Technology, Electronics and Communication Engineering
 <div class="education-section">
   <div class="education-item">
-    <strong>Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India</strong> <em>(2017 - 2021)</em>
+    <em>Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India</em> <em>(2017 - 2021)</em>
   </div>
 </div>
 
