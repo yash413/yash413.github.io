@@ -22,7 +22,6 @@ redirect_from:
 **Data Scientist**<br>
 *(Aug 2023 - Present)*<br>
 *Thrive Software Solutions*
-
 - Led end-to-end data science projects using Python and SQL, improving accuracy for customer behavior models by 30%.
 - Engineered a robust data preprocessing pipeline with Pandas and NumPy, reducing data cleaning time by 40% and enabling faster model iteration.
 - Conducted in-depth exploratory data analysis, uncovering key insights that led to the development of five new product features, increasing user engagement by 25%.
@@ -31,19 +30,19 @@ redirect_from:
 - Collaborated with cross-functional teams to integrate model outputs using REST APIs and Docker, leading to data-driven decision-making and a 20% increase in overall operational efficiency.
 
 
+
 **Software Engineer (Data)**<br>
 *(Jun 2021 - Dec 2021)*<br>
 *Accenture*
-
 - Orchestrated scalable data pipelines using Apache Spark, processing over 100GB of daily data and reducing ETL time by 50%, accelerating data availability for analytics teams.
 - Integrated diverse data sources into a unified data lake, increasing data accessibility and supporting advanced analytics projects that drove a 25% improvement in operational efficiency.
 - Optimized SQL queries and database schemas, reducing query execution time by 30% and increasing overall system performance by 25%, enhancing user experience and reducing infrastructure costs by 20%.
 
 
+
 **Data Analyst**<br>
 *(Jan 2020 - Jun 2021)*<br>
 *Enique Solutions*
-
 - Spearheaded a predictive analytics project using Python and scikit-learn, forecasting customer demand with 92% accuracy and reducing inventory costs by $300K annually.
 - Created an interactive Power BI dashboard integrating real-time sales data, increasing executive decision-making speed by 40% and driving 12% revenue growth.
 - Optimized marketing spend through advanced SQL queries and Excel modeling, reallocating $500K to high-performing channels and improving ROI by 35%.
@@ -54,12 +53,12 @@ redirect_from:
 ## Education
 
 **MASTER OF SCIENCE, COMPUTER SCIENCE (Specialization: Data Science)**<br>
-*(2022 - 2023)*
+*(2022 - 2023)*<br>
 <span style="color:red"> *University of Texas at Dallas*</span><br>
 **Relevant Courses:** Database Design, Machine Learning, Artificial Intelligence, Statistical Methods for Data Science, Big Data Analytics and Management, Design and Analysis of Algorithms, Data Structures, Web Programming
 
 **BACHELOR OF TECHNOLOGY, ELECTRONICS AND COMMUNICATION ENGINEERING**<br>
-*(2017 - 2021)*
+*(2017 - 2021)*<br>
 <span style="color:red"> *Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India*</span>
 
 
