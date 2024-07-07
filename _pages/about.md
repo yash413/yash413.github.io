@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-h1, h2, h3, h4, h5, h6 {
-    margin: 0;
-}
 
 # I'm Yashwanth | Data Scientist
 
@@ -22,8 +19,8 @@ h1, h2, h3, h4, h5, h6 {
 
 ## Experience
 
-### Data Scientist 
-#### (Aug 2023 - Present)
+**Data Scientist**
+*(Aug 2023 - Present)*
 *Thrive Software Solutions*
 
 - Led end-to-end data science projects using Python and SQL, improving accuracy for customer behavior models by 30%.
@@ -34,8 +31,8 @@ h1, h2, h3, h4, h5, h6 {
 - Collaborated with cross-functional teams to integrate model outputs using REST APIs and Docker, leading to data-driven decision-making and a 20% increase in overall operational efficiency.
 
 
-### Software Engineer (Data) 
-#### (Jun 2021 - Dec 2021)
+**Software Engineer (Data)**
+*(Jun 2021 - Dec 2021)*
 *Accenture*
 
 - Orchestrated scalable data pipelines using Apache Spark, processing over 100GB of daily data and reducing ETL time by 50%, accelerating data availability for analytics teams.
@@ -43,8 +40,8 @@ h1, h2, h3, h4, h5, h6 {
 - Optimized SQL queries and database schemas, reducing query execution time by 30% and increasing overall system performance by 25%, enhancing user experience and reducing infrastructure costs by 20%.
 
 
-### Data Analyst 
-#### (Jan 2020 - Jun 2021)
+**Data Analyst**
+*(Jan 2020 - Jun 2021)*
 *Enique Solutions*
 
 - Spearheaded a predictive analytics project using Python and scikit-learn, forecasting customer demand with 92% accuracy and reducing inventory costs by $300K annually.
@@ -56,14 +53,14 @@ h1, h2, h3, h4, h5, h6 {
 
 ## Education
 
-### MASTER OF SCIENCE, COMPUTER SCIENCE (Specialization: Data Science) 
-#### (2022 - 2023)
+**MASTER OF SCIENCE, COMPUTER SCIENCE (Specialization: Data Science)**
+*(2022 - 2023)*
 
-<span style="color:red"> *University of Texas at Dallas*</span>
+<span style="color:red"> *University of Texas at Dallas*</span><br>
 **Relevant Courses:** Database Design, Machine Learning, Artificial Intelligence, Statistical Methods for Data Science, Big Data Analytics and Management, Design and Analysis of Algorithms, Data Structures, Web Programming
 
-### BACHELOR OF TECHNOLOGY, ELECTRONICS AND COMMUNICATION ENGINEERING 
-#### (2017 - 2021)
+**BACHELOR OF TECHNOLOGY, ELECTRONICS AND COMMUNICATION ENGINEERING**
+*(2017 - 2021)*
 
 <span style="color:red"> *Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India*</span>
 
