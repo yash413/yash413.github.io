@@ -13,11 +13,16 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
 
 ---
 
+<style>
+  h3, h4, h5, h6 {
+    margin: 0;
+  }
+</style>
+
 ## Experience
 
 ### Data Scientist
-**Thrive Software Solutions**  
-*Aug 2023 - Present*
+**Thrive Software Solutions** *(Aug 2023 - Present)*
 
 - Led end-to-end data science projects using Python and SQL, improving accuracy for customer behavior models by 30%.
 - Engineered a robust data preprocessing pipeline with Pandas and NumPy, reducing data cleaning time by 40% and enabling faster model iteration.
@@ -27,16 +32,14 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
 - Collaborated with cross-functional teams to integrate model outputs using REST APIs and Docker, leading to data-driven decision-making and a 20% increase in overall operational efficiency.
 
 ### Software Engineer (Data)
-**Accenture**  
-*Jun 2021 - Dec 2021*
+**Accenture** *(Jun 2021 - Dec 2021)*
 
 - Orchestrated scalable data pipelines using Apache Spark, processing over 100GB of daily data and reducing ETL time by 50%, accelerating data availability for analytics teams.
 - Integrated diverse data sources into a unified data lake, increasing data accessibility and supporting advanced analytics projects that drove a 25% improvement in operational efficiency.
 - Optimized SQL queries and database schemas, reducing query execution time by 30% and increasing overall system performance by 25%, enhancing user experience and reducing infrastructure costs by 20%.
 
 ### Data Analyst
-**Enique Solutions**  
-*Jan 2020 - Jun 2021*
+**Enique Solutions** *(Jan 2020 - Jun 2021)*
 
 - Spearheaded a predictive analytics project using Python and Scikit-learn, forecasting customer demand with 92% accuracy and reducing inventory costs by $300K annually.
 - Created an interactive Power BI dashboard integrating real-time sales data, increasing executive decision-making speed by 40% and driving 12% revenue growth.
@@ -49,13 +52,11 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
 ## Education
 
 ### Master of Science, Computer Science (Specialization: Data Science)
-**University of Texas at Dallas**  
-*2022 - 2023*  
+**University of Texas at Dallas** *(2022 - 2023)*  
 *Relevant Courses:* Database Design, Machine Learning, Artificial Intelligence, Statistical Methods for Data Science, Big Data Analytics and Management, Design and Analysis of Algorithms, Data Structures, Web Programming
 
 ### Bachelor of Technology, Electronics and Communication Engineering
-**Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India**  
-*2017 - 2021*
+**Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India** *(2017 - 2021)*
 
 ---
 
