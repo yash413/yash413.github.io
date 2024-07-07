@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
 
 # I'm Yashwanth | Data Scientist
 
@@ -20,7 +23,7 @@ redirect_from:
 ## Experience
 
 ### Data Scientist 
-#### (Aug’23-*)
+#### (Aug 2023 - Present)
 *Thrive Software Solutions*
 
 - Led end-to-end data science projects using Python and SQL, improving accuracy for customer behavior models by 30%.
@@ -32,7 +35,7 @@ redirect_from:
 
 
 ### Software Engineer (Data) 
-#### (Jun’21-Dec’21)
+#### (Jun 2021 - Dec 2021)
 *Accenture*
 
 - Orchestrated scalable data pipelines using Apache Spark, processing over 100GB of daily data and reducing ETL time by 50%, accelerating data availability for analytics teams.
@@ -41,7 +44,7 @@ redirect_from:
 
 
 ### Data Analyst 
-#### (Jan’20-Jun’21)
+#### (Jan 2020 - Jun 2021)
 *Enique Solutions*
 
 - Spearheaded a predictive analytics project using Python and scikit-learn, forecasting customer demand with 92% accuracy and reducing inventory costs by $300K annually.
