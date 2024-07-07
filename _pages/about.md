@@ -87,22 +87,22 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
 
 <div class="education-section">
   <div class="education-role">
-    <strong>Master of Science, Computer Science (Specialization: Data Science)</strong> <em>(2022 - 2023)</em>
+    <strong>Master of Science, Computer Science (Specialization: Data Science)</strong>
   </div>
   <div class="education-item">
-    **University of Texas at Dallas**  
+    <strong>University of Texas at Dallas</strong> <em>(2022 - 2023)</em>
     <ul>
-      <li><em>Relevant Courses:</em> Database Design, Machine Learning, Artificial Intelligence, Statistical Methods for Data Science, Big Data Analytics and Management, Design and Analysis of Algorithms, Data Structures, Web Programming</li>
+      <li><strong>Relevant Courses:</strong> Database Design, Machine Learning, Artificial Intelligence, Statistical Methods for Data Science, Big Data Analytics and Management, Design and Analysis of Algorithms, Data Structures, Web Programming</li>
     </ul>
   </div>
 </div>
 
 <div class="education-section">
   <div class="education-role">
-    <strong>Bachelor of Technology, Electronics and Communication Engineering</strong> <em>(2017 - 2021)</em>
+    <strong>Bachelor of Technology, Electronics and Communication Engineering</strong>
   </div>
   <div class="education-item">
-    **Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India**
+    <strong>Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India</strong> <em>(2017 - 2021)</em>
   </div>
 </div>
 
