@@ -17,46 +17,79 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
   h3, h4, h5, h6 {
     margin: 0;
   }
+  .experience-section, .education-section {
+    margin-bottom: 30px;
+  }
+  .company-role, .education-role {
+    margin-bottom: 5px;
+  }
+  .experience-item, .education-item {
+    margin-bottom: 15px;
+  }
 </style>
 
 ## Experience
 
-### Data Scientist
-**Thrive Software Solutions** *(Aug 2023 - Present)*
+<div class="experience-section">
+  <div class="company-role">
+    <strong>Thrive Software Solutions</strong> *(Aug 2023 - Present)*
+  </div>
+  <div class="experience-item">
+    - Led end-to-end data science projects using Python and SQL, improving accuracy for customer behavior models by 30%.
+    - Engineered a robust data preprocessing pipeline with Pandas and NumPy, reducing data cleaning time by 40% and enabling faster model iteration.
+    - Conducted in-depth exploratory data analysis, uncovering key insights that led to the development of five new product features, increasing user engagement by 25%.
+    - Developed and deployed a machine learning model for demand forecasting using Scikit-learn and TensorFlow, resulting in a 15% reduction in inventory costs and a 10% increase in supply chain efficiency.
+    - Implemented advanced feature engineering techniques with PySpark, improving fraud detection model performance by 35% and reducing false positives by 20%.
+    - Collaborated with cross-functional teams to integrate model outputs using REST APIs and Docker, leading to data-driven decision-making and a 20% increase in overall operational efficiency.
+  </div>
+</div>
 
-- Led end-to-end data science projects using Python and SQL, improving accuracy for customer behavior models by 30%.
-- Engineered a robust data preprocessing pipeline with Pandas and NumPy, reducing data cleaning time by 40% and enabling faster model iteration.
-- Conducted in-depth exploratory data analysis, uncovering key insights that led to the development of five new product features, increasing user engagement by 25%.
-- Developed and deployed a machine learning model for demand forecasting using Scikit-learn and TensorFlow, resulting in a 15% reduction in inventory costs and a 10% increase in supply chain efficiency.
-- Implemented advanced feature engineering techniques with PySpark, improving fraud detection model performance by 35% and reducing false positives by 20%.
-- Collaborated with cross-functional teams to integrate model outputs using REST APIs and Docker, leading to data-driven decision-making and a 20% increase in overall operational efficiency.
+<div class="experience-section">
+  <div class="company-role">
+    <strong>Accenture</strong> *(Jun 2021 - Dec 2021)*
+  </div>
+  <div class="experience-item">
+    - Orchestrated scalable data pipelines using Apache Spark, processing over 100GB of daily data and reducing ETL time by 50%, accelerating data availability for analytics teams.
+    - Integrated diverse data sources into a unified data lake, increasing data accessibility and supporting advanced analytics projects that drove a 25% improvement in operational efficiency.
+    - Optimized SQL queries and database schemas, reducing query execution time by 30% and increasing overall system performance by 25%, enhancing user experience and reducing infrastructure costs by 20%.
+  </div>
+</div>
 
-### Software Engineer (Data)
-**Accenture** *(Jun 2021 - Dec 2021)*
-
-- Orchestrated scalable data pipelines using Apache Spark, processing over 100GB of daily data and reducing ETL time by 50%, accelerating data availability for analytics teams.
-- Integrated diverse data sources into a unified data lake, increasing data accessibility and supporting advanced analytics projects that drove a 25% improvement in operational efficiency.
-- Optimized SQL queries and database schemas, reducing query execution time by 30% and increasing overall system performance by 25%, enhancing user experience and reducing infrastructure costs by 20%.
-
-### Data Analyst
-**Enique Solutions** *(Jan 2020 - Jun 2021)*
-
-- Spearheaded a predictive analytics project using Python and Scikit-learn, forecasting customer demand with 92% accuracy and reducing inventory costs by $300K annually.
-- Created an interactive Power BI dashboard integrating real-time sales data, increasing executive decision-making speed by 40% and driving 12% revenue growth.
-- Optimized marketing spend through advanced SQL queries and Excel modeling, reallocating $500K to high-performing channels and improving ROI by 35%.
-- Designed and executed a customer segmentation analysis using K-means clustering, enabling personalized campaigns that boosted customer retention by 22%.
-- Implemented an automated data quality framework using Python, reducing manual data cleaning efforts by 80% and improving overall data integrity by 95%.
+<div class="experience-section">
+  <div class="company-role">
+    <strong>Enique Solutions</strong> *(Jan 2020 - Jun 2021)*
+  </div>
+  <div class="experience-item">
+    - Spearheaded a predictive analytics project using Python and Scikit-learn, forecasting customer demand with 92% accuracy and reducing inventory costs by $300K annually.
+    - Created an interactive Power BI dashboard integrating real-time sales data, increasing executive decision-making speed by 40% and driving 12% revenue growth.
+    - Optimized marketing spend through advanced SQL queries and Excel modeling, reallocating $500K to high-performing channels and improving ROI by 35%.
+    - Designed and executed a customer segmentation analysis using K-means clustering, enabling personalized campaigns that boosted customer retention by 22%.
+    - Implemented an automated data quality framework using Python, reducing manual data cleaning efforts by 80% and improving overall data integrity by 95%.
+  </div>
+</div>
 
 ---
 
 ## Education
 
-### Master of Science, Computer Science (Specialization: Data Science)
-**University of Texas at Dallas** *(2022 - 2023)*  
-*Relevant Courses:* Database Design, Machine Learning, Artificial Intelligence, Statistical Methods for Data Science, Big Data Analytics and Management, Design and Analysis of Algorithms, Data Structures, Web Programming
+<div class="education-section">
+  <div class="education-role">
+    <strong>Master of Science, Computer Science (Specialization: Data Science)</strong> *(2022 - 2023)*
+  </div>
+  <div class="education-item">
+    **University of Texas at Dallas**  
+    *Relevant Courses:* Database Design, Machine Learning, Artificial Intelligence, Statistical Methods for Data Science, Big Data Analytics and Management, Design and Analysis of Algorithms, Data Structures, Web Programming
+  </div>
+</div>
 
-### Bachelor of Technology, Electronics and Communication Engineering
-**Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India** *(2017 - 2021)*
+<div class="education-section">
+  <div class="education-role">
+    <strong>Bachelor of Technology, Electronics and Communication Engineering</strong> *(2017 - 2021)*
+  </div>
+  <div class="education-item">
+    **Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India**
+  </div>
+</div>
 
 ---
 

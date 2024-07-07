@@ -7,24 +7,38 @@ redirect_from:
   - /markdown.html
 ---
 
+### Intelligent Rival for Nine Men's Morris | Tools: Python, Machine Learning, AI
 
-### Stock Price prediction with LSTM-RNN
+- Created Adversarial Search Nine Men’s Morris agent using Mini-Max and Alpha-Beta pruning algorithms with dynamically altering Mini-Max depth, achieving an 88% win rate against human players.
+- Competed in a class-wide AI competition organized by the professor, securing a top 3 position among 80+ participants.
 
-- Designed and implemented a Spark pipeline on AWS using PySpark and Databricks to predict stock prices with 93% accuracy.
-- Collaborated with a team of students to fine-tune hyperparameters, reducing the model's squared error to 5%.
-- Utilized Databricks to create scalable data pipelines for real-time data ingestion and pre-processing.
+[Code](https://github.com/yash413/Rival-for-nine-mens-morris-game/)
 
-[Code](#)
+### Counter-Speech Generator against Online Hate Speech | Tools: PySpark, NLP, ML
 
-### Counter-Speech Generator against Online Hate Speech
+- Built a deep learning model using Hugging Face T5 to generate counter-speech against online speech, with an accuracy of 85%.
+- Evaluated the effectiveness of the generated counter-speech in mitigating negativity through sentiment analysis using TextBlob.
 
-- Developed a deep learning model using PySpark and NLTK for NLP tasks to generate counter-speech against online hate speech, achieving 85% accuracy.
-- Conducted sentiment analysis to evaluate the effectiveness of the counter-speech.
+[Code](https://github.com/yash413/Counter-Speech-Generator-against-Online-Hate-Speech/)
 
-[Code & Report](#)
+### Stock Price Prediction with LSTM-RNN | Tools: PySpark, Databricks, AWS
 
-### Apparel recommendation system using NLP and computer vision using Python
+- Conceived a scalable real-time Spark pipeline on AWS infrastructure for data ingestion, pre-processing, and stock prediction.
+- Leveraged Databricks with PySpark to construct a model using LSTM-RNN achieving a squared error of 5% on historical data.
+- Collaborated with a team of 3 students to refine the model, improving its accuracy to 93% through hyperparameter tuning.
 
-- Built apparel recommendation system using text processing (Bag of Words, TF-IDF and Word2Vec) and Image processing (Keras +Tensorflow) using the data obtained from Amazon product advertising API.
+[Code](https://github.com/yash413/Formula-1-Project/)
 
-[Code](#)
+### Databricks Formula 1 Racing Analysis
+
+- Created databricks notebooks to ingest, transform, analyze and create reports on Formula 1 racing data.
+- Written Spark SQL queries to find the dominant drivers and teams for visualization.
+- Scheduled the pipeline using Azure Data Factory (ADF) for monitoring and alerts.
+
+[Code](https://github.com/yash413/Formula-1-Project/)
+
+### Impact of Airbnb on Housing Supply | Tools: MySQL, Data Analytics, Tableau
+
+- Led a team of 5 to analyze Airbnb's impact on housing, completing the project on time.
+- Utilized GeoPandas and ZCTA5 shapefiles to extract granular data at the zip code level.
+- Created a scalable Tableau dashboard to assess risk for 1.5M Airbnb listings from state to zip code level.
