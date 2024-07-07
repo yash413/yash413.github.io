@@ -24,11 +24,11 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
     margin-bottom: 5px;
   }
   .experience-item, .education-item {
-    margin-bottom: 15px;
+    margin-bottom: 5px;
   }
   .experience-item ul, .education-item ul {
     margin: 0;
-    padding-left: 20px;
+    padding-left: 5px;
   }
 </style>
 
