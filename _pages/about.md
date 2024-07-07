@@ -30,9 +30,10 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
 
 ## Experience
 
+### Data Scientist
 <div class="experience-section">
   <div class="company-role">
-    <strong>Thrive Software Solutions</strong> *(Aug 2023 - Present)*
+    **Thrive Software Solutions** *(Aug 2023 - Present)*
   </div>
   <div class="experience-item">
     - Led end-to-end data science projects using Python and SQL, improving accuracy for customer behavior models by 30%.
@@ -44,9 +45,10 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
   </div>
 </div>
 
+### Software Engineer (Data)
 <div class="experience-section">
   <div class="company-role">
-    <strong>Accenture</strong> *(Jun 2021 - Dec 2021)*
+    **Accenture** *(Jun 2021 - Dec 2021)*
   </div>
   <div class="experience-item">
     - Orchestrated scalable data pipelines using Apache Spark, processing over 100GB of daily data and reducing ETL time by 50%, accelerating data availability for analytics teams.
@@ -55,9 +57,10 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
   </div>
 </div>
 
+### Data Analyst
 <div class="experience-section">
   <div class="company-role">
-    <strong>Enique Solutions</strong> *(Jan 2020 - Jun 2021)*
+    **Enique Solutions** *(Jan 2020 - Jun 2021)*
   </div>
   <div class="experience-item">
     - Spearheaded a predictive analytics project using Python and Scikit-learn, forecasting customer demand with 92% accuracy and reducing inventory costs by $300K annually.
@@ -74,7 +77,7 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
 
 <div class="education-section">
   <div class="education-role">
-    <strong>Master of Science, Computer Science (Specialization: Data Science)</strong> *(2022 - 2023)*
+    **Master of Science, Computer Science (Specialization: Data Science)** *(2022 - 2023)*
   </div>
   <div class="education-item">
     **University of Texas at Dallas**  
@@ -84,7 +87,7 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
 
 <div class="education-section">
   <div class="education-role">
-    <strong>Bachelor of Technology, Electronics and Communication Engineering</strong> *(2017 - 2021)*
+    **Bachelor of Technology, Electronics and Communication Engineering** *(2017 - 2021)*
   </div>
   <div class="education-item">
     **Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India**
