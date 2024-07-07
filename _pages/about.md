@@ -19,8 +19,8 @@ redirect_from:
 
 ## Experience
 
-**Data Scientist**
-*(Aug 2023 - Present)*
+**Data Scientist**<br>
+*(Aug 2023 - Present)*<br>
 *Thrive Software Solutions*
 
 - Led end-to-end data science projects using Python and SQL, improving accuracy for customer behavior models by 30%.
@@ -31,8 +31,8 @@ redirect_from:
 - Collaborated with cross-functional teams to integrate model outputs using REST APIs and Docker, leading to data-driven decision-making and a 20% increase in overall operational efficiency.
 
 
-**Software Engineer (Data)**
-*(Jun 2021 - Dec 2021)*
+**Software Engineer (Data)**<br>
+*(Jun 2021 - Dec 2021)*<br>
 *Accenture*
 
 - Orchestrated scalable data pipelines using Apache Spark, processing over 100GB of daily data and reducing ETL time by 50%, accelerating data availability for analytics teams.
@@ -40,8 +40,8 @@ redirect_from:
 - Optimized SQL queries and database schemas, reducing query execution time by 30% and increasing overall system performance by 25%, enhancing user experience and reducing infrastructure costs by 20%.
 
 
-**Data Analyst**
-*(Jan 2020 - Jun 2021)*
+**Data Analyst**<br>
+*(Jan 2020 - Jun 2021)*<br>
 *Enique Solutions*
 
 - Spearheaded a predictive analytics project using Python and scikit-learn, forecasting customer demand with 92% accuracy and reducing inventory costs by $300K annually.
@@ -53,15 +53,13 @@ redirect_from:
 
 ## Education
 
-**MASTER OF SCIENCE, COMPUTER SCIENCE (Specialization: Data Science)**
+**MASTER OF SCIENCE, COMPUTER SCIENCE (Specialization: Data Science)**<br>
 *(2022 - 2023)*
-
 <span style="color:red"> *University of Texas at Dallas*</span><br>
 **Relevant Courses:** Database Design, Machine Learning, Artificial Intelligence, Statistical Methods for Data Science, Big Data Analytics and Management, Design and Analysis of Algorithms, Data Structures, Web Programming
 
-**BACHELOR OF TECHNOLOGY, ELECTRONICS AND COMMUNICATION ENGINEERING**
+**BACHELOR OF TECHNOLOGY, ELECTRONICS AND COMMUNICATION ENGINEERING**<br>
 *(2017 - 2021)*
-
 <span style="color:red"> *Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India*</span>
 
 
