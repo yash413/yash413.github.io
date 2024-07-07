@@ -28,7 +28,7 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
   }
   .experience-item ul, .education-item ul {
     margin: 0;
-    padding-left: 5px;
+    padding-left: 20px;
   }
 </style>
 
@@ -37,7 +37,7 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
 ### Data Scientist
 <div class="experience-section">
   <div class="company-role">
-    <strong>Thrive Software Solutions</strong> <em>(Aug 2023 - Present)</em>
+    <em>Thrive Software Solutions</em> <em>(Aug 2023 - Present)</em>
   </div>
   <div class="experience-item">
     <ul>
@@ -54,7 +54,7 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
 ### Software Engineer (Data)
 <div class="experience-section">
   <div class="company-role">
-    <strong>Accenture</strong> <em>(Jun 2021 - Dec 2021)</em>
+    <em>Accenture</em> <em>(Jun 2021 - Dec 2021)</em>
   </div>
   <div class="experience-item">
     <ul>
@@ -68,7 +68,7 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
 ### Data Analyst
 <div class="experience-section">
   <div class="company-role">
-    <strong>Enique Solutions</strong> <em>(Jan 2020 - Jun 2021)</em>
+    <em>Enique Solutions</em> <em>(Jan 2020 - Jun 2021)</em>
   </div>
   <div class="experience-item">
     <ul>
@@ -85,22 +85,18 @@ Skilled Data Scientist with 3+ years of experience in Data Extraction, Data Mode
 
 ## Education
 
+### Master of Science, Computer Science (Specialization: Data Science)
 <div class="education-section">
-  <div class="education-role">
-    <strong>Master of Science, Computer Science (Specialization: Data Science)</strong>
-  </div>
   <div class="education-item">
-    <strong>University of Texas at Dallas</strong> <em>(2022 - 2023)</em>
+    <em>University of Texas at Dallas</em> <em>(2022 - 2023)</em>
     <ul>
       <li><strong>Relevant Courses:</strong> Database Design, Machine Learning, Artificial Intelligence, Statistical Methods for Data Science, Big Data Analytics and Management, Design and Analysis of Algorithms, Data Structures, Web Programming</li>
     </ul>
   </div>
 </div>
 
+### Bachelor of Technology, Electronics and Communication Engineering
 <div class="education-section">
-  <div class="education-role">
-    <strong>Bachelor of Technology, Electronics and Communication Engineering</strong>
-  </div>
   <div class="education-item">
     <strong>Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India</strong> <em>(2017 - 2021)</em>
   </div>
