@@ -7,6 +7,12 @@ redirect_from:
   - /markdown.html
 ---
 
+### 2023 Data Science Job Market Analysis | Tools: SQL, Data Analysis, PostgreSQL
+
+- 📊 Dive into the data job market! Focusing on data scientist roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data science.
+
+[Code](https://github.com/yash413/SQL_Project_job_data_analysis)
+
 ### Intelligent Rival for Nine Men's Morris | Tools: Python, Machine Learning, AI
 
 - Created Adversarial Search Nine Men’s Morris agent using Mini-Max and Alpha-Beta pruning algorithms with dynamically altering Mini-Max depth, achieving an 88% win rate against human players.
