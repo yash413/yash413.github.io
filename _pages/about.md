@@ -55,10 +55,10 @@ Experienced in ETL processes, Kubernetes, CI/CD pipelines, and container orchest
   </div>
 </div>
 
-### Software Engineer, Data
+### Data Engineer
 <div class="experience-section">
   <div class="company-role">
-    <em>Accenture</em> <em>(Jun 2021 - Dec 2021)</em>
+    <em>Accenture</em> <em>(Aug 2020 - Dec 2021)</em>
   </div>
   <div class="experience-item">
     <ul>
@@ -72,7 +72,7 @@ Experienced in ETL processes, Kubernetes, CI/CD pipelines, and container orchest
 ### Data Analyst
 <div class="experience-section">
   <div class="company-role">
-    <em>Enique Solutions</em> <em>(Jan 2020 - Jun 2021)</em>
+    <em>Enique Solutions</em> <em>(Jan 2020 - Jul 2020)</em>
   </div>
   <div class="experience-item">
     <ul>
