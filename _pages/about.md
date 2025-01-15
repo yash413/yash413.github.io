@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 <style>
+  body, h1, h2, h3, h4, h5, h6, p, ul, li, a {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+  }
   h3, h4, h5, h6 {
     margin: 0;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
     color: #2c3e50;
   }
   .section-header {
@@ -154,4 +156,4 @@ Strategic thinker with 3+ years in data science and analytics, I thrive at the i
 
 ## <span class="section-header">Projects</span>
 
-<a href="https://yash413.github.io/Projects/" class="projects-link">Click here to explore my portfolio</a> or visit <a href="https://yash413.github.io/Projects/" class="projects-link">my projects page</a>.
+<a href="https://yash413.github.io/Projects/" class="projects-link">Click here to explore my portfolio</a> or visit <a href="https://yash413.github.io/Projects/" class="projects-link">my projects page</a>
