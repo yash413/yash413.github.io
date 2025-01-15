@@ -72,6 +72,9 @@ author:
   xing             : 
   youtube          : 
   zhihu            : 
+  
+  # Resume
+  resume           : "/resume/"
 
 # Site Settings
 teaser                   : 
