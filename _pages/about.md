@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 align="center"><b>Hi, I'm Yashwanth Devireddy</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
+<p align="right">
   <a class="move-right" href="https://github.com/DenverCoder1/readme-typing-svg"><img class="readme-typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25¢er=true&vCenter=true&width=600&height=100&lines=Data+Science+Professional..♥++;Machine+Learning+Engineer,;Computer+Science,;Business+Analytics,;Active+Learner%2FProblem+Solver,;Love+to+learn+new+stuffs..<3" alt="Dynamic Text"></a>
 </p>
 
