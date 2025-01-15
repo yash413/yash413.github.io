@@ -26,3 +26,6 @@ main:
 
   - title: "Projects Portfolio"
     url: /Projects/
+
+  - title: "Resume"
+    url: "/resume/"
