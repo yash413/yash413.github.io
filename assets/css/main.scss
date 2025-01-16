@@ -43,31 +43,7 @@
 // Your existing imports or styles...
 
 // If you have other imports or styles, they should be here...
-// If you have other imports or styles, they should be here...
 
-.resume-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  min-height: 80vh; // Ensure it takes at least 80% of the viewport height to center vertically
-  text-align: center; // For centering the fallback message
-}
-
-embed {
-  display: block;
-  margin: 0 auto;
-  max-width: 800px; // Optional: Limit the width for better readability on larger screens
-}
-
-.fallback-message {
-  margin-top: 20px; // Space from the top if the PDF can't be displayed
-  font-size: 18px; // Adjust as per your design
-}
-
-// If you have other styles, they would follow here
-
-/*
 .resume-container {
   display: flex;
   flex-direction: column;
@@ -87,8 +63,6 @@ embed {
   margin-top: 20px;
   font-size: 18px;
 }
-*/
-
 
 .download-button {
   display: inline-block;
